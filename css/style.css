@@ -1,0 +1,33 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar-brand i {
+    color: #007bff;
+}
+
+.hero-section {
+    background-position: center;
+    display: flex;
+    align-items: center;
+}
+
+.card {
+    transition: transform 0.3s;
+}
+
+.card:hover {
+    transform: translateY(-10px);
+}
+
+footer {
+    background-color: #007bff;
+}
+
+footer a {
+    text-decoration: none;
+}
+
+.bg-primary {
+    background-color: #007bff !important;
+}
