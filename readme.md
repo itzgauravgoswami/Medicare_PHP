@@ -1,4 +1,3 @@
-```markdown
 # Medicare
 
 A responsive medical website built with **PHP**, **MySQL**, and **Bootstrap 5**, featuring a public-facing site and a secure admin panel for managing content.
@@ -6,8 +5,8 @@ A responsive medical website built with **PHP**, **MySQL**, and **Bootstrap 5**,
 ---
 
 ### 👨‍💻 Developed by:
-**Gaurav Goswami**  
-**Roll No.: 233032**
+**Name :- Gaurav Goswami, Shreya Saini**  
+**Roll No. :- 233032, 236026**
 
 ---
 
@@ -125,10 +124,3 @@ php -r "echo password_hash('admin123', PASSWORD_DEFAULT);"
   - View appointment requests
 
 ---
-
-## 📄 License
-
-This project is open-source and free to use for educational or personal development purposes.
-
----
-```
