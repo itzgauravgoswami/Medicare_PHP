@@ -5,7 +5,7 @@ A responsive medical website built with **PHP**, **MySQL**, and **Bootstrap 5**,
 ---
 
 ### 👨‍💻 Developed by:
-**Name :- Gaurav Goswami, Shreya Singh**  
+**Name :- Gaurav Goswami, Shreya Saini**  
 **Roll No. :- 233032, 236026**
 
 ---
